@@ -19,6 +19,8 @@ A token can also be found in Tautulli or Ombi if you're using them. _**token=njk
 
 **library=** is pretty self explanatory. Multiple libraries supported, seperated by a comma ",". _**library=Movies and library=4K Movies,Movies,Kids Movies**_ are examples of correct formatting.
 
+**databse=** point this to the Plex Media Server folder on your machine 
+
 They are the three variables most people will have to fill in.
 
 **_If, and only IF you're using_** 'The Movie Database' agent instead of Plex Movie you'll also need to edit the _**apikey=**_ variable
