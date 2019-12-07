@@ -32,6 +32,8 @@ located under the [tmdb] header.
     url=http://PLEXSERVERURL:32400
     token=REPLACEmeWITHyourTOKEN
     library=Movies,Test Library,Kids
+    database=C:\Users\Plex\AppData\Local\Plex Media Server\Plug-in Support\Databases\com.plexapp.plugins.library.db
+    
 
     [tmdb]
     apikey=Optional
