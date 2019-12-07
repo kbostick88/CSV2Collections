@@ -4,7 +4,7 @@ in your Plex Library and turn them into a collection.
 
 
 # Disclaimer
-I'm not a developer, this was a modified script. The modifications were madde by me, but the orginal file was not developed by me. The orginal file is listed as orginalfile.py
+I'm not a developer, this was a modified script. The modifications were madde by me, but the orginal file was not developed by me. The orginal file is listed as originalfile.py
 
 # Configuration
 Create or edit config.ini with your favourite text editor. Keep config.ini in the same working directory as the script. 
