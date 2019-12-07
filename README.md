@@ -19,7 +19,7 @@ A token can also be found in Tautulli or Ombi if you're using them. _**token=njk
 
 **library=** is pretty self explanatory. Multiple libraries supported, seperated by a comma ",". _**library=Movies and library=4K Movies,Movies,Kids Movies**_ are examples of correct formatting.
 
-**databse=** point this to the Plex Media Server folder on your machine 
+**database=** point this to the Plex Media Server folder on your machine usually in the C drive, Users (USERNAME) AppData\Local\Plex Media Server\Plug-in Support\Databases\com.plexapp.plugins.library.db
 
 They are the three variables most people will have to fill in.
 
